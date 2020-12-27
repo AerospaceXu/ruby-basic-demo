@@ -6,5 +6,6 @@ These are simple program to help you learn ruby quickly. Most examples are from 
 
 阅读顺序 / reading order：
 
-1. words.rb
-2. words-of-string.rb
+1. about-class.rb
+2. words.rb
+3. words-of-string.rb
