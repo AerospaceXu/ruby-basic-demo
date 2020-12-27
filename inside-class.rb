@@ -17,3 +17,5 @@ puts obj.instance_variables
 # puts obj.methods
 puts obj.methods.grep(/my/)
 puts MyClass.instance_methods.grep(/my/)
+
+# 请看 class-is-object.rb
